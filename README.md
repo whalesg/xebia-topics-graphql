@@ -32,8 +32,8 @@ Best of luck
 ### How to run app & test
 
 * Leave instruction on how to run and test your app here
-npm install
-npm start
+- npm install
+- npm start
 
 ### Future Improvements
 
